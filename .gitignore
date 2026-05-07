@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# swarm/opencode
+.swarm/
+.opencode/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
